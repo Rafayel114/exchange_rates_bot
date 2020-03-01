@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
 # Start Handler
     def start(update, context):
-        context.bot.send_message(chat_id=update.effective_chat.id, text="This is simple exchange rate bot")
+        context.bot.send_message(chat_id=update.effective_chat.id, text="This is simple exchange rate bot.\nType '/help' to see the list of commands that i can do")
 
     start_handler = CommandHandler('start', start)
     dispatcher.add_handler(start_handler)
