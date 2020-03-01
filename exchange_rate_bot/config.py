@@ -1,5 +1,5 @@
 database_path = './exchange_data.sqlite'
-telegram_bot_token = '1086043254:AAHAc0Z7cOdORX74Z71uMbjDtkiuvqL76Og'
+telegram_bot_token = '986064046:AAECZqZBHCQomV4BC6_hrBQBhPTueURCVvU'
 REQUEST_KWARGS = {
     # Comment proxy_url if you are not in Russia
     # "USERNAME:PASSWORD@" is optional, if you need authentication:
