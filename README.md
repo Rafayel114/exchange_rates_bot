@@ -8,4 +8,4 @@ Telegram bot showing current exchange rates.
 4. Activate virtual environment: source env/bin/activate
 5. Install requirements (libraries needed for bot): pip install matplotlib python-telegram-bot
 6. Run bot: python3 exchange_bot.py
-
+7. Find bot on telegram: smart_exchange_bot
